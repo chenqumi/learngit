@@ -1,0 +1,17 @@
+commit 4f9315adc12d68ccf49b0ff2d8d628e3e7849f39
+Author: chenquan <chenquan@maqgen.com>
+Date:   Fri Jun 8 15:28:33 2018 +0800
+
+    add GPL
+
+commit 682daff2bc741516c2a3acf1b887033fbc1a8021
+Author: chenquan <chenquan@maqgen.com>
+Date:   Fri Jun 8 15:22:54 2018 +0800
+
+    add distributed in line 1
+
+commit b47a08eb6d02cc37524d47f71613fa7bd824654f
+Author: chenquan <chenquan@maqgen.com>
+Date:   Fri Jun 8 15:13:57 2018 +0800
+
+    wrote a readme file

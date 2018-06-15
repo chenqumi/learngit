@@ -4,4 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 boy
 A stubborn boy
-
+倔强のboy

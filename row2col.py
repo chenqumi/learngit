@@ -9,9 +9,11 @@ if len(sys.argv) ==1:
 
 file = sys.argv[1]
 
-sam = []
+sample = []
 with open(file) as fd:
     for line in fd:
-                sam = line.strip().split("\t")
-for instance in sam:
-        print("{0}".format(instance))
+        sample = line.strip().split("\t")
+
+for i in sample:
+    print("{0}".format(i))
+

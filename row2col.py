@@ -13,5 +13,5 @@ sam = []
 with open(file) as fd:
     for line in fd:
                 sam = line.strip().split("\t")
-for i in sam:
-        print("{0}".format(i))
+for instance in sam:
+        print("{0}".format(instance))

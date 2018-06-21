@@ -9,8 +9,8 @@
 安装完成后需要进行设置
 
 ```shell
-git config --global user.name "chenquan"
-git config --global user.email "chenquan@maqgen.com"
+git config --global user.name "chenqumi"
+git config --global user.email "chenqumi@example.com"
 ```
 
 ### 创建版本库

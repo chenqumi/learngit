@@ -9,3 +9,4 @@ import sys
 print('Hello, world!')
 print('Hello, niannian!')
 print('Hello, maru!')
+print('Hello, babao!')
